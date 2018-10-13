@@ -1,3 +1,3 @@
 module.exports = (_, response) => {
-  response.file('./index.html');
-};
+  response.file('./index.html')
+}
