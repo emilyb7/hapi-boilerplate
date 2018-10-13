@@ -1,3 +1,3 @@
-module.exports = (_, response) => {
-  response.file('./index.html')
+module.exports = (_, h) => {
+  return h.file('index.html')
 }

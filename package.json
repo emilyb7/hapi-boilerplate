@@ -9,8 +9,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "hapi": "^16.1.0",
-    "inert": "^4.1.0"
+    "hapi": "^17.6.0",
+    "inert": "^5.1.0"
   },
   "devDependencies": {
     "eslint": "^5.7.0",
